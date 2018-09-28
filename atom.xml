@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ナンパで漢になるブログ</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://pua-teg.github.io/"/>
+  <updated>2018-09-28T03:59:38.363Z</updated>
+  <id>https://pua-teg.github.io/</id>
+  
+  <author>
+    <name>てぐる君</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>comment-field-test</title>
+    <link href="https://pua-teg.github.io/2018/09/28/comment-field-test/"/>
+    <id>https://pua-teg.github.io/2018/09/28/comment-field-test/</id>
+    <published>2018-09-28T03:24:59.000Z</published>
+    <updated>2018-09-28T03:59:38.363Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
